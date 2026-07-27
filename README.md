@@ -49,7 +49,7 @@ Desarrollo aplicaciones integrales y soluciones de software de extremo a extremo
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB_Compass-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 - **IDEs & Editores:** Visual Studio Code, Microsoft Visual Studio 2026 Insiders.
 - **Control de Versiones:** Git, GitHub.
